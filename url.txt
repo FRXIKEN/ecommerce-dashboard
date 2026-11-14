@@ -1,1 +1,1 @@
-Dashboard Streamlit Cloud: https://ecommerce-dashboard-s74phtswptthhbfb4ju6rl.streamlit.app
+Dashboard Streamlit Cloud: https://ecommerce-dashboard-bhwzkvdbnoy8x25uw7hb4j.streamlit.app/
